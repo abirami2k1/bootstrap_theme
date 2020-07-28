@@ -1,0 +1,57 @@
+body{
+    background: #333;
+    color: #fff;
+
+}
+
+.navbar{
+   border-bottom:3px solid rgba(0, 153, 255, 0.781); 
+   opacity: 0.8;
+}
+
+#home{
+    background:linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.589),rgba(0, 0, 0, 0.575)), url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+#home .home-content{
+    padding-top: 150px;
+}
+
+#home i{
+    background-color: white;
+    color: rgba(0, 153, 255, 0.781) ;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#home .home-form{
+    margin-top: 150px;
+    
+}
+#home .home-form .home-card{
+    background-color: rgba(0, 153, 255, 0.781);
+    color: rgba(255, 255, 255, 0.815);
+    border-radius: 5px;
+}
+
+.abc i{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+#explore-main {
+    padding-top: 50px;
+}
+#share-main {
+    padding-top: 50px;
+}
+.abcd i{
+    background-color: white;
+    color: rgba(0, 153, 255, 0.781);
+    padding: 5px;
+    border-radius: 5px;
+}
